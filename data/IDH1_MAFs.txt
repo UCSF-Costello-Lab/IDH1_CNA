@@ -1,0 +1,27 @@
+Tumor sample		Tumor grade	Exome-seq	RNA-seq	D2HG normalized signal area
+Patient14	Initial A	2	33%	43%	
+Patient14	Recurrence1 A	2	32%	35%	
+Patient14	Recurrence2 A	4	3%	0%	
+Patient14	Recurrence2 B	4	0%	0%	
+Patient14	Recurrence2 C	4	1%		0
+Patient14	Recurrence2 D	4	0%		0
+Patient169	Initial A	2	44%	39%	
+Patient169	Initial B	2	45%		
+Patient169	Initial C	2	36%		0.0115
+Patient169	Recurrence1 A	4	7%	5%	
+Patient68	Initial A	2	56%		
+Patient68	Recurrence1 A	3	38%		
+Patient68	Recurrence1 B	3	27%		
+Patient17	Initial A	2	43%	47%	
+Patient17	Initial B	2	49%		
+Patient17	Initial C	2	42%		
+Patient17	Recurrence1 A	4	54%	56%	
+Patient17	Recurrence1 B	4	59%		
+Patient17	Recurrence1 C	4	56%		
+Patient17	Recurrence1 D	4	61%		
+Patient17	Recurrence1 E	4	68%		0.0181
+Patient21	Initial A	3	43%		
+Patient21	Recurrence1 A	4	71%		
+Patient21	Recurrence1 B	4	94%		0.0057
+Patient27	Initial A	2	78%		
+Patient27	Recurrence1 A	3	48%		
