@@ -1,0 +1,102 @@
+R scripting front-end version 3.3.2 (2016-10-31)
+Loading required package: Biobase
+Loading required package: BiocGenerics
+Loading required package: methods
+Loading required package: parallel
+
+Attaching package: 'BiocGenerics'
+
+The following objects are masked from 'package:parallel':
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+The following objects are masked from 'package:stats':
+
+    IQR, mad, xtabs
+
+The following objects are masked from 'package:base':
+
+    Filter, Find, Map, Position, Reduce, anyDuplicated, append,
+    as.data.frame, cbind, colnames, do.call, duplicated, eval, evalq,
+    get, grep, grepl, intersect, is.unsorted, lapply, lengths, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int, rank,
+    rbind, rownames, sapply, setdiff, sort, table, tapply, union,
+    unique, unsplit, which, which.max, which.min
+
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+Loading required package: scales
+Loading required package: reshape2
+Loading required package: ggplot2
+Loading required package: matrixStats
+matrixStats v0.51.0 (2016-10-08) successfully loaded. See ?matrixStats for help.
+
+Attaching package: 'matrixStats'
+
+The following objects are masked from 'package:Biobase':
+
+    anyMissing, rowMedians
+
+Loading required package: FDb.InfiniumMethylation.hg19
+Loading required package: GenomicFeatures
+Loading required package: S4Vectors
+Loading required package: stats4
+
+Attaching package: 'S4Vectors'
+
+The following objects are masked from 'package:base':
+
+    colMeans, colSums, expand.grid, rowMeans, rowSums
+
+Loading required package: IRanges
+Loading required package: GenomeInfoDb
+Loading required package: GenomicRanges
+Loading required package: AnnotationDbi
+Loading required package: TxDb.Hsapiens.UCSC.hg19.knownGene
+Loading required package: org.Hs.eg.db
+
+Loading required package: minfi
+Loading required package: SummarizedExperiment
+
+Attaching package: 'SummarizedExperiment'
+
+The following object is masked from 'package:matrixStats':
+
+    rowRanges
+
+Loading required package: Biostrings
+Loading required package: XVector
+Loading required package: bumphunter
+Loading required package: foreach
+Loading required package: iterators
+Loading required package: locfit
+locfit 1.5-9.1 	 2013-03-22
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+0 HumanMethylation27 samples found
+801 HumanMethylation450 samples found
+Attempting to extract protocolData() from list...
+Determining chip type from IDAT protocolData...
+Note: method with signature 'methylData#character' chosen for function 'sampleNames<-',
+ target signature 'MethyLumiQC#character'.
+ "eSet#ANY" would also be valid
+0 HumanMethylation27 samples found
+787 HumanMethylation450 samples found
+Attempting to extract protocolData() from list...
+Determining chip type from IDAT protocolData...
+Loading required package: MASS
+
+Attaching package: 'MASS'
+
+The following object is masked from 'package:AnnotationDbi':
+
+    select
+
+Normalizing via Illumina controls...
+Using sample number 277 as reference level...

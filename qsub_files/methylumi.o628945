@@ -1,0 +1,88 @@
+#####
+# Start of script
+#####
+
+
+[1] '2.20.0'
+R version 3.3.2 (2016-10-31)
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+locale:
+[1] C
+
+attached base packages:
+[1] stats4    parallel  methods   stats     graphics  grDevices utils    
+[8] datasets  base     
+
+other attached packages:
+ [1] methylumi_2.20.0                       
+ [2] minfi_1.20.0                           
+ [3] bumphunter_1.14.0                      
+ [4] locfit_1.5-9.1                         
+ [5] iterators_1.0.8                        
+ [6] foreach_1.4.3                          
+ [7] Biostrings_2.42.0                      
+ [8] XVector_0.14.0                         
+ [9] SummarizedExperiment_1.4.0             
+[10] FDb.InfiniumMethylation.hg19_2.2.0     
+[11] org.Hs.eg.db_3.4.0                     
+[12] TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2
+[13] GenomicFeatures_1.26.0                 
+[14] AnnotationDbi_1.36.0                   
+[15] GenomicRanges_1.26.1                   
+[16] GenomeInfoDb_1.10.0                    
+[17] IRanges_2.8.0                          
+[18] S4Vectors_0.12.0                       
+[19] matrixStats_0.51.0                     
+[20] ggplot2_2.2.0                          
+[21] reshape2_1.4.2                         
+[22] scales_0.4.1                           
+[23] Biobase_2.34.0                         
+[24] BiocGenerics_0.20.0                    
+
+loaded via a namespace (and not attached):
+ [1] httr_1.2.1               nor1mix_1.2-2            splines_3.3.2           
+ [4] assertthat_0.1           doRNG_1.6                Rsamtools_1.26.1        
+ [7] RSQLite_1.1              lattice_0.20-34          limma_3.30.2            
+[10] quadprog_1.5-5           digest_0.6.10            RColorBrewer_1.1-2      
+[13] colorspace_1.3-1         preprocessCore_1.36.0    Matrix_1.2-7.1          
+[16] plyr_1.8.4               GEOquery_2.40.0          siggenes_1.48.0         
+[19] XML_3.98-1.5             biomaRt_2.30.0           genefilter_1.56.0       
+[22] zlibbioc_1.20.0          xtable_1.8-2             BiocParallel_1.8.1      
+[25] tibble_1.2               openssl_0.9.5            annotate_1.52.0         
+[28] beanplot_1.2             pkgmaker_0.22            lazyeval_0.2.0          
+[31] survival_2.40-1          magrittr_1.5             mclust_5.2              
+[34] memoise_1.0.0            nlme_3.1-128             MASS_7.3-45             
+[37] data.table_1.9.8         tools_3.3.2              registry_0.3            
+[40] stringr_1.1.0            munsell_0.4.3            rngtools_1.2.4          
+[43] base64_2.0               grid_3.3.2               RCurl_1.95-4.8          
+[46] bitops_1.0-6             gtable_0.2.0             codetools_0.2-15        
+[49] multtest_2.30.0          DBI_0.5-1                reshape_0.8.6           
+[52] R6_2.2.0                 illuminaio_0.16.0        GenomicAlignments_1.10.0
+[55] rtracklayer_1.34.0       stringi_1.1.2            Rcpp_0.12.8             
+[1] "*** confirm sample IDs can be column names -- output should be TRUE"
+[1] TRUE
+[1] "*** confirm all files were found -- output should be 0:"
+[1] 0
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.001648 0.030270 0.059720 0.097840 0.111800 2.876000 
+[1] "The following is the count of samples with >0.5% of probes with high p-values (>0.05):"
+[1] 15
+[1] "These samples have >0.5% of probes with high p-values (>0.05) but will be retained:"
+[1] "Patient21_Recurrence1"
+[1] "These samples have >0.5% of probes with high p-values (>0.05) and will be excluded:"
+ [1] "TCGA-FG-6692-01" "TCGA-FG-5962-01" "TCGA-QH-A6X8-01" "TCGA-DU-6405-01"
+ [5] "TCGA-CS-6188-01" "TCGA-CS-5397-01" "TCGA-CS-6665-01" "TCGA-E1-5305-01"
+ [9] "TCGA-CS-6668-01" "TCGA-DU-5853-01" "TCGA-FG-5965-01" "TCGA-CS-4938-01"
+[13] "TCGA-19-5951-01" "TCGA-32-1979-01"
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.001648 0.029660 0.058280 0.079360 0.109700 0.570000 
+Background mean & SD estimated from 178406 probes
+Background mean & SD estimated from 92596 probes
+[1] "*** confirm that samples are in the correct order before renaming -- output should be TRUE:"
+[1] TRUE
+
+
+#####
+# End of script
+#####

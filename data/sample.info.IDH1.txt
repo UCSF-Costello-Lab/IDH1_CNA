@@ -1,0 +1,155 @@
+beadchip	strip	sample_ID	source	tissue_type	patient_ID	sample_type	grade	grade_of_rec1	IDH_status	CancerCell_2015	IDH1_2016	core
+9647455020	R01C01	142_cell	Luchman	cell_line	BT142	cell_hemi			del_wt		yes	other
+9420867144	R03C01	142_cell_het	Luchman	cell_line	BT142	cell_het			pre_change		yes	other
+9445229052	R04C01	142_tumour	Luchman	FF	BT142	tumor			pre_change		yes	other
+9977525017	R02C01	142_xeno	Luchman	FF	BT142	xeno			del_wt		yes	other
+200770460021	R05C02	BT257_tumor	Luchman	FF	BT257	tumor			pre_change		yes	USC
+200770460027	R05C02	BT257_X1	Luchman	FF	BT257	X1			del_mut		yes	USC
+200770460021	R06C02	BT257_X11	Luchman	FF	BT257	X11			del_mut		yes	USC
+200770460032	R05C02	BT257_X4	Luchman	FF	BT257	X4			del_mut		yes	USC
+200705420020	R06C02	BT257_X7	Luchman	FF	BT257	X7			del_mut		yes	USC
+200770460032	R04C02	BT54_cell_hemi	Luchman	cell_line	BT54	cell_hemi			del_mut		yes	USC
+200705420020	R05C02	BT54_tumor	Luchman	FF	BT54	tumor			pre_change		yes	USC
+200770460032	R06C02	BT61_cell_het	Luchman	cell_line	BT61	cell_het			pre_change		yes	USC
+200770460027	R06C02	BT61_tumor	Luchman	FF	BT61	tumor			pre_change		yes	USC
+200705420020	R04C02	BT88_cell_hemi	Luchman	cell_line	BT88	cell_hemi			del_mut		yes	USC
+200770460021	R04C02	BT88_tumor	Luchman	FF	BT88	tumor			pre_change		yes	USC
+200770460027	R04C02	BT88_xeno	Luchman	FF	BT88	xeno			del_mut		yes	USC
+200770460027	R03C02	BT92_cell_hemi	Luchman	cell_line	BT92	cell_hemi			del_mut		yes	USC
+200770460032	R03C02	BT92_tumor	Luchman	FF	BT92	tumor			pre_change		yes	USC
+8221916078	R01C01	4454	Costello	FF	Patient01	Primary	2	4	IDH1_mut	yes		UCSF
+9406922025	R01C01	SF4454v2	Costello	FF	Patient01	Primaryv2	2	4	IDH1_mut	yes		UCSF
+9406922025	R02C01	SF4454v3	Costello	FF	Patient01	Primaryv3	2	4	IDH1_mut	yes		UCSF
+9406922025	R03C01	SF4454v4	Costello	FF	Patient01	Primaryv4	2	4	IDH1_mut	yes		UCSF
+8221916078	R02C01	6447v1	Costello	FF	Patient01	Recurrence1	4	4	IDH1_mut	yes		UCSF
+8221916078	R03C01	6447v2	Costello	FF	Patient01	Recurrence1v2	4	4	IDH1_mut	yes		UCSF
+8221916078	R04C01	6447v3	Costello	FF	Patient01	Recurrence1v3	4	4	IDH1_mut	yes		UCSF
+9406922025	R04C01	SF6283	Costello	FF	Patient02	Primary	2	3	IDH1_mut	yes		UCSF
+9406922025	R05C01	SF8334	Costello	FF	Patient02	Recurrence1	3	3	IDH1_mut	yes		UCSF
+9406922027	R05C02	SF4666	Costello	FF	Patient03	Primary	2	4	IDH1_mut	yes		UCSF
+9406922027	R06C02	SF7882	Costello	FF	Patient03	Recurrence1	4	4	IDH1_mut	yes		UCSF
+8221916078	R05C01	6388	Costello	FF	Patient04	Primary	2	3	IDH1_mut	yes		UCSF
+9376537105	R01C01	SF6388v2	Costello	FF	Patient04	Primaryv2	2	3	IDH1_mut	yes		UCSF
+9376537105	R02C01	SF6388v3	Costello	FF	Patient04	Primaryv3	2	3	IDH1_mut	yes		UCSF
+9376537105	R03C01	SF6388v4	Costello	FF	Patient04	Primaryv4	2	3	IDH1_mut	yes		UCSF
+9376537105	R04C01	SF6388v5	Costello	FF	Patient04	Primaryv5	2	3	IDH1_mut	yes		UCSF
+9376537105	R05C01	SF6388v6	Costello	FF	Patient04	Primaryv6	2	3	IDH1_mut	yes		UCSF
+8221916078	R06C01	6882	Costello	FF	Patient04	Recurrence1	3	3	IDH1_mut	yes		UCSF
+8221916078	R01C02	7408	Costello	FF	Patient04	Recurrence2	3	3	IDH1_mut	yes		UCSF
+8221916078	R02C02	7627	Costello	FF	Patient04	Recurrence3	3	3	IDH1_mut	yes		UCSF
+8221916078	R03C02	2599	Costello	FF	Patient07	Primary	2	2	IDH1_mut	yes		UCSF
+8221916078	R04C02	6185	Costello	FF	Patient07	Recurrence1	2	2	IDH1_mut	yes		UCSF
+8221916038	R01C01	SF3437	Costello	FF	Patient08	Primary	2	4	IDH1_mut	yes		UCSF
+8221916038	R02C01	SF4503	Costello	FF	Patient08	Recurrence1	4	4	IDH1_mut	yes		UCSF
+8221916038	R03C01	SF6249	Costello	FF	Patient10	Primary	2	4	IDH1_mut	yes		UCSF
+8221916038	R04C01	SF7041	Costello	FF	Patient10	Recurrence1	4	4	IDH1_mut	yes		UCSF
+8667045069	R05C01	2980	Costello	FF	Patient11	Primary	2	2	IDH1_mut	yes		UCSF
+8667045069	R06C01	7680	Costello	FF	Patient11	Recurrence1	2	2	IDH1_mut	yes		UCSF
+8221916078	R05C02	7233	Costello	FF	Patient12	Primary	2	3	IDH1_mut	yes		UCSF
+8221916078	R06C02	7631	Costello	FF	Patient12	Recurrence1	3	3	IDH1_mut	yes		UCSF
+8667045078	R03C02	SF2917	Costello	FF	Patient13	Primary	2	2	IDH1_mut	yes		UCSF
+8667045078	R04C02	SF3434	Costello	FF	Patient13	Recurrence1	2	2	IDH1_mut	yes		UCSF
+9406922027	R01C02	SF4181	Costello	FF	Patient14	Primary	2	2	pre_change	yes		UCSF
+9406922027	R02C02	SF6079	Costello	FF	Patient14	Recurrence1	2	2	pre_change	yes		UCSF
+200123460058	R05C01	SF6079	Costello	FF	Patient14	Recurrence1_REPEAT	2	2	pre_change		yes	USC
+9406922027	R03C02	SF9690v1	Costello	FF	Patient14	Recurrence2v1	4	2	del_mut		yes	UCSF
+200123460144	R02C01	SF9690v1	Costello	FF	Patient14	Recurrence2v1_REPEAT	4	2	del_mut		yes	USC
+9406922027	R04C02	SF9690v2	Costello	FF	Patient14	Recurrence2v2	4	2	del_mut		yes	UCSF
+200123460058	R01C01	SF9690v3	Costello	FF	Patient14	Recurrence2v3	4	2	del_mut		yes	USC
+200123460112	R05C01	SF9690v4	Costello	FF	Patient14	Recurrence2v4	4	4	del_mut		yes	USC
+8667045078	R05C02	SF7460	Costello	FF	Patient16	Primary	2	2	IDH1_mut	yes		UCSF
+8667045078	R06C02	SF7579	Costello	FF	Patient16	Recurrence1	2	2	IDH1_mut	yes		UCSF
+9992576214	R05C02	SF7597	Costello	FF	Patient169	Primary	2	3	pre_change		yes	UCSF
+200123460112	R06C01	SF7597v1	Costello	FF	Patient169	Primary_REPEAT	2	3	pre_change		yes	USC
+200123460058	R03C01	SF7597v2	Costello	FF	Patient169	Primaryv2	2	3	pre_change		yes	USC
+200123460144	R01C02	SF7597v3	Costello	FF	Patient169	Primaryv3	2	3	pre_change		yes	USC
+9992576214	R06C02	SF9836	Costello	FF	Patient169	Recurrence1	3	3	del_mut		yes	UCSF
+200123460144	R05C02	SF9836	Costello	FF	Patient169	Recurrence1_REPEAT	3	3	del_mut		yes	USC
+8667045069	R02C02	8039	Costello	FF	Patient17	Primary	2	4	pre_change	yes		UCSF
+9376537105	R06C01	SF6388v2	Costello	FF	Patient17	Primaryv2	2	4	pre_change	yes		UCSF
+9376537105	R01C02	SF6388v3	Costello	FF	Patient17	Primaryv3	2	4	pre_change	yes		UCSF
+8667045069	R03C02	8961	Costello	FF	Patient17	Recurrence1	4	4	gain_mut	yes		UCSF
+8667045069	R05C02	8961 T1	Costello	FF	Patient17	Recurrence1v2	4	4	gain_mut	yes		UCSF
+8667045069	R06C02	8961 T2	Costello	FF	Patient17	Recurrence1v3	4	4	gain_mut	yes		UCSF
+8667045069	R04C02	8961 v2	Costello	FF	Patient17	Recurrence1v4	4	4	gain_mut	yes		UCSF
+200123460112	R01C01	SF8961v5	Costello	FF	Patient17	Recurrence1v5	4	4	gain_mut		yes	USC
+8221916038	R05C01	SF6292	Costello	FF	Patient18	Primary	2	4	IDH1_mut	yes		UCSF
+9376537105	R02C02	SF629v2	Costello	FF	Patient18	Primaryv2	2	4	IDH1_mut	yes		UCSF
+9376537105	R03C02	SF629v3	Costello	FF	Patient18	Primaryv3	2	4	IDH1_mut	yes		UCSF
+9376537105	R04C02	SF629v4	Costello	FF	Patient18	Primaryv4	2	4	IDH1_mut	yes		UCSF
+8221916038	R06C01	SF9004	Costello	FF	Patient18	Recurrence1	4	4	IDH1_mut	yes		UCSF
+200123460112	R04C02	SF5487	Costello	FFPE	Patient21	Primary	2	4	pre_change		yes	USC
+200123460058	R06C01	SF9065v1	Costello	FF	Patient21	Recurrence1	4	4	amp_mut		yes	USC
+200123460144	R05C01	SF9065v2	Costello	FF	Patient21	Recurrence1v2	4	4	amp_mut		yes	USC
+9376537105	R05C02	SF7475	Costello	FF	Patient22	Primary	2	4	IDH1_mut	yes		UCSF
+9376537105	R06C02	SF9106	Costello	FF	Patient22	Recurrence1	4	4	IDH1_mut	yes		UCSF
+9406922025	R01C02	SF7472	Costello	FF	Patient36	Primary	2	3	IDH1_mut	yes		UCSF
+9406922025	R02C02	SF9618	Costello	FF	Patient36	Recurrence1	3	3	IDH1_mut	yes		UCSF
+9995287005	R01C01	GS254	Costello	FF	Patient38	Primary	2	2	IDH1_mut	yes		UCSF
+9995287005	R02C01	GS429	Costello	FF	Patient38	Recurrence1	2	2	IDH1_mut	yes		UCSF
+9741950013	R06C01	SF5553_B2	Costello	FFPE	Patient43	PrimaryB2	2	3	IDH1_mut		yes	UCSF
+9741950013	R04C02	SF9703-P	Costello	FF	Patient43	Recurrence1P	3	3	IDH1_mut		yes	UCSF
+9995287006	R01C01	SF9261	Costello	FF	Patient68	Primary	2	3	pre_change	yes		UCSF
+9995287006	R03C01	SF9849-C	Costello	FF	Patient68	Recurrence1C	3	3	gain_wt	yes		UCSF
+9995287006	R02C01	SF9849-G	Costello	FF	Patient68	Recurrence1G	3	3	gain_wt		yes	UCSF
+9647455222	R02C02	SF8121v1	Costello	FF	Patient90	Primaryv1	2	2	IDH1_mut	yes		UCSF
+9647455222	R03C02	SF8121v2	Costello	FF	Patient90	Primaryv2	2	2	IDH1_mut	yes		UCSF
+9647455222	R04C02	SF8121v3	Costello	FF	Patient90	Primaryv3	2	2	IDH1_mut	yes		UCSF
+9647455222	R05C02	SF8121v4	Costello	FF	Patient90	Primaryv4	2	2	IDH1_mut	yes		UCSF
+9647455222	R06C02	SF8121v5	Costello	FF	Patient90	Primaryv5	2	2	IDH1_mut	yes		UCSF
+9741950013	R01C01	SF8121v6	Costello	FF	Patient90	Primaryv6	2	2	IDH1_mut	yes		UCSF
+9741950013	R02C01	SF8801v1	Costello	FF	Patient90	Recurrence1v1	2	2	IDH1_mut	yes		UCSF
+9741950013	R03C01	SF8801v2	Costello	FF	Patient90	Recurrence1v2	2	2	IDH1_mut	yes		UCSF
+8221916038	R01C02	Insula-141	Normal	FF	A141	Insula	Adult			yes		UCSF
+5911815023	R01C01	a1	Normal		Adult_NJ_1	NJ	Adult					other
+5911815023	R02C01	a2	Normal		Adult_NJ_2	NJ	Adult					other
+7973219001	R01C01	a3	Normal		Adult_NJ_3	NJ	Adult					other
+7973219001	R03C02	a4	Normal		Adult_NJ_4	NJ	Adult					other
+7973219005	R05C01	a5	Normal		Adult_NJ_5	NJ	Adult					other
+7973219007	R01C01	a6	Normal		Adult_NJ_6	NJ	Adult					other
+7973219007	R03C02	a7	Normal		Adult_NJ_7	NJ	Adult					other
+9296930142	R01C01	M510	Normal		Fetal_NJ_1	NJ	Fetal					other
+9296930142	R05C02	M557	Normal		Fetal_NJ_10	NJ	Fetal					other
+9296930142	R06C02	M567	Normal		Fetal_NJ_11	NJ	Fetal					other
+9296931008	R01C01	M439	Normal		Fetal_NJ_12	NJ	Fetal					other
+9296931008	R02C01	M581	Normal		Fetal_NJ_13	NJ	Fetal					other
+9296931008	R03C01	M463	Normal		Fetal_NJ_14	NJ	Fetal					other
+9296931008	R04C01	M588	Normal		Fetal_NJ_15	NJ	Fetal					other
+9296931008	R05C01	M576	Normal		Fetal_NJ_16	NJ	Fetal					other
+9296931008	R06C01	M542	Normal		Fetal_NJ_17	NJ	Fetal					other
+9296931008	R02C02	M187	Normal		Fetal_NJ_18	NJ	Fetal					other
+9296931008	R03C02	M291	Normal		Fetal_NJ_19	NJ	Fetal					other
+9296930142	R02C01	M513	Normal		Fetal_NJ_2	NJ	Fetal					other
+9296931008	R04C02	M462	Normal		Fetal_NJ_20	NJ	Fetal					other
+9296931008	R05C02	M573	Normal		Fetal_NJ_21	NJ	Fetal					other
+9296931008	R06C02	M501	Normal		Fetal_NJ_22	NJ	Fetal					other
+9296931071	R03C01	M574	Normal		Fetal_NJ_23	NJ	Fetal					other
+9296931071	R04C01	M446	Normal		Fetal_NJ_24	NJ	Fetal					other
+9296931071	R01C02	M523	Normal		Fetal_NJ_25	NJ	Fetal					other
+9296931071	R04C02	M477	Normal		Fetal_NJ_26	NJ	Fetal					other
+9296931124	R03C01	M604	Normal		Fetal_NJ_27	NJ	Fetal					other
+5911815023	R04C01	f1	Normal		Fetal_NJ_28	NJ	Fetal					other
+5911815023	R05C01	f2	Normal		Fetal_NJ_29	NJ	Fetal					other
+9296930142	R03C01	M417	Normal		Fetal_NJ_3	NJ	Fetal					other
+5911815023	R06C01	f3	Normal		Fetal_NJ_30	NJ	Fetal					other
+6229017016	R03C02	B207026	Normal		Fetal_NJ_31	NJ	Fetal					other
+9296930142	R04C01	M586	Normal		Fetal_NJ_4	NJ	Fetal					other
+9296930142	R05C01	M606	Normal		Fetal_NJ_5	NJ	Fetal					other
+9296930142	R06C01	M498	Normal		Fetal_NJ_6	NJ	Fetal					other
+9296930142	R01C02	M610	Normal		Fetal_NJ_7	NJ	Fetal					other
+9296930142	R02C02	M594	Normal		Fetal_NJ_8	NJ	Fetal					other
+9296930142	R03C02	M318	Normal		Fetal_NJ_9	NJ	Fetal					other
+8667045060	R01C01	SK4901-Cerebellum	Normal		Ped_NJ_1	NJ	Pediatric					other
+8784241018	R06C02	SK1321-Cerebellum	Normal		Ped_NJ_10	NJ	Pediatric					other
+8784241104	R03C02	AK756	Normal		Ped_NJ_11	NJ	Pediatric					other
+8784241104	R05C02	BTTB783	Normal		Ped_NJ_12	NJ	Pediatric					other
+8784241116	R01C01	SK1321-Cerebrum	Normal		Ped_NJ_13	NJ	Pediatric					other
+8784241116	R04C01	BTTB1122	Normal		Ped_NJ_14	NJ	Pediatric					other
+8667045060	R05C02	SK4901-Pons	Normal		Ped_NJ_2	NJ	Pediatric					other
+8667045134	R04C01	SK4901-Cerebrum	Normal		Ped_NJ_3	NJ	Pediatric					other
+8667045134	R02C02	SK1537-Cerebellum	Normal		Ped_NJ_4	NJ	Pediatric					other
+8784225140	R02C01	SK1537-Cerebrum	Normal		Ped_NJ_5	NJ	Pediatric					other
+8784225140	R03C01	SK1537-Pons	Normal		Ped_NJ_6	NJ	Pediatric					other
+8784225140	R04C02	SK1537-Medulla	Normal		Ped_NJ_7	NJ	Pediatric					other
+8784241018	R05C01	SK1321-Pons	Normal		Ped_NJ_8	NJ	Pediatric					other
+8784241018	R01C02	SK1321-Medulla	Normal		Ped_NJ_9	NJ	Pediatric					other

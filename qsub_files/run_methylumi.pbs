@@ -1,0 +1,21 @@
+#!/bin/tcsh
+
+#PBS -N methylumi
+#PBS -l nodes=1:ppn=1
+#PBS -m ae
+#PBS -M tali.mazor@ucsf.edu
+
+echo "#####"
+echo "# Start of script"
+echo "#####\n\n"
+
+Rscript --version
+
+cd /home/mazort/LG3/git_repos/IDH1_CNA/
+
+Rscript code/run_methylumi.R
+
+echo "\n\n#####"
+echo "# End of script"
+echo "#####"
+
